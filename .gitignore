@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.npm-cache/
+public/mediapipe/
+.DS_Store
+.vercel/
+.env.local
+.env.*.local
+npm-debug.log*
