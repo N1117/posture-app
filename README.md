@@ -4,7 +4,9 @@ Webcam posture coach in the browser — calibrate once, get gentle reminders whe
 
 摄像头坐姿提醒网页应用：校准一次后，驼背、低头、肩膀歪斜时会提醒你。本地运行，数据只存在你的浏览器里。
 
-> **Demo GIF** — coming soon / 演示动图稍后补上
+![Posture Care Monitor demo](docs/demo.gif)
+
+Sit upright after calibration → lean forward → system reminder after ~10s / 校准后坐正 → 低头前倾 → 约 10 秒后系统提醒
 
 ## Features / 功能
 
